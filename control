@@ -1,0 +1,9 @@
+Package: de.vincentschweiger.noccls
+Name: NoCCLS
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes the CC bar from the lockscreen
+Maintainer: Vento
+Author: Vento
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
